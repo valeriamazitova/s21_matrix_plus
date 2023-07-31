@@ -21,9 +21,9 @@ Following functions were implemented using object-oriented approach:
 `S21Matrix InverseMatrix()` - Calculates and returns the inverse matrix
 
 operator overload:
-- +
-- -
-- *
+- '+'
+- '-'
+- '*'
 - == 
 - =
 - +=
