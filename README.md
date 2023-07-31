@@ -2,6 +2,7 @@
 Implementation of the s21_matrix_oop.h library.
 
 Following functions were implemented using object-oriented approach:
+
 `bool EqMatrix(const S21Matrix& other)` - Checks matrices for equality with each other
 
 `void SumMatrix(const S21Matrix& other)` - Adds the second matrix to the current one
@@ -20,7 +21,7 @@ Following functions were implemented using object-oriented approach:
 
 `S21Matrix InverseMatrix()` - Calculates and returns the inverse matrix
 
-operator overload:
+Operator overload:
 - '+'
 - '-'
 - '*'
